@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Sevillana&display=swap');
+
+body {
+    background: #ff99c8;
+    font-family: 'Sevillana', cursive;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+section {
+    background-color: #a9def9;
+    border: 10px, solid;
+    margin: 10px; 
+    padding: 50px; border-radius: 15px;
+}
+
+.entrada {
+   background-color:#fcf6bd;
+   font-family: 'Bungee Hairline', cursive;
+}

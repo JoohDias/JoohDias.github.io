@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Sevillana&display=swap');
 
+header{
+    font-family: 'Uchen', cursive;
+    display: flex;
+    justify-content: space-around;
+}
+
 body {
     background: #ff99c8;
     font-family: 'Sevillana', cursive;
@@ -21,4 +27,9 @@ section {
 .entrada {
    background-color:#fcf6bd;
    font-family: 'Bungee Hairline', cursive;
+}
+
+button {
+    background-color: #143444;
+    font-family: 'Rampart One', cursive;
 }
